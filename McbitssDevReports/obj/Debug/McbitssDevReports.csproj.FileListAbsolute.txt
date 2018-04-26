@@ -1,0 +1,869 @@
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\McbitssDevReports.dll.config
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\McbitssDevReports.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\McbitssDevReports.pdb
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\David.Mongodb.Client.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DCouple.Mongo.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.Charts.v17.2.Core.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.CodeParser.v17.2.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.Data.v17.2.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.DataAccess.v17.2.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.Office.v17.2.Core.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.Pdf.v17.2.Core.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.PivotGrid.v17.2.Core.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.Printing.v17.2.Core.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.RichEdit.v17.2.Core.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.RichEdit.v17.2.Export.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.Sparkline.v17.2.Core.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.Utils.v17.2.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxThemes.v17.2.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.Mvc5.v17.2.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.Resources.v17.2.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.v17.2.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.Xpo.v17.2.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraCharts.v17.2.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraGauges.v17.2.Core.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraReports.v17.2.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraReports.v17.2.Web.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DnsClient.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\EntityFramework.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\EntityFramework.SqlServer.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\Microsoft.Web.Infrastructure.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\MongoDB.Bson.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\MongoDB.Driver.Core.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\MongoDB.Driver.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\Newtonsoft.Json.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\System.Buffers.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\System.Net.Http.Formatting.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\System.Web.Helpers.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\System.Web.Http.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\System.Web.Http.WebHost.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\System.Web.Mvc.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\System.Web.Razor.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\System.Web.WebPages.Deployment.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\System.Web.WebPages.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\System.Web.WebPages.Razor.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\WebMatrix.Data.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.Images.v17.2.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraCharts.v17.2.Web.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxHtmlEditor.v17.2.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxPivotGrid.v17.2.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxRichEdit.v17.2.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxScheduler.v17.2.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraScheduler.v17.2.Core.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxSpellChecker.v17.2.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxSpreadsheet.v17.2.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxTreeList.v17.2.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.SpellChecker.v17.2.Core.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.Spreadsheet.v17.2.Core.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DnsClient.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\EntityFramework.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\EntityFramework.SqlServer.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\MongoDB.Bson.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\MongoDB.Driver.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\MongoDB.Driver.Core.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\Newtonsoft.Json.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\System.Net.Http.Formatting.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\System.Web.Helpers.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\System.Web.Http.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\System.Web.Http.WebHost.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\System.Web.Mvc.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\System.Web.Razor.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\System.Web.WebPages.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\System.Web.WebPages.Deployment.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\System.Web.WebPages.Razor.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.Utils.v17.2.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.Data.v17.2.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.RichEdit.v17.2.Core.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.Printing.v17.2.Core.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.v17.2.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraReports.v17.2.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraReports.v17.2.Web.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.Pdf.v17.2.Core.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.DataAccess.v17.2.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.Office.v17.2.Core.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.PivotGrid.v17.2.Core.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.Sparkline.v17.2.Core.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.Xpo.v17.2.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraCharts.v17.2.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraGauges.v17.2.Core.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\WebMatrix.Data.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraCharts.v17.2.Web.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxHtmlEditor.v17.2.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxPivotGrid.v17.2.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxRichEdit.v17.2.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxScheduler.v17.2.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraScheduler.v17.2.Core.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxSpellChecker.v17.2.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxSpreadsheet.v17.2.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxTreeList.v17.2.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.SpellChecker.v17.2.Core.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.Spreadsheet.v17.2.Core.xml
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Utils.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Utils.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Utils.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Utils.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Data.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Data.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Data.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Data.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Printing.v17.2.Core.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Printing.v17.2.Core.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Printing.v17.2.Core.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Printing.v17.2.Core.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Web.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Web.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Web.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Web.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.XtraReports.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.XtraReports.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.XtraReports.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.XtraReports.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.XtraReports.v17.2.Web.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.XtraReports.v17.2.Web.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.XtraReports.v17.2.Web.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.XtraReports.v17.2.Web.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Pdf.v17.2.Core.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Pdf.v17.2.Core.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Web.Resources.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Web.Resources.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Web.Resources.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Web.Resources.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.DataAccess.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.DataAccess.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.DataAccess.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.DataAccess.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Office.v17.2.Core.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Office.v17.2.Core.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Office.v17.2.Core.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Office.v17.2.Core.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.PivotGrid.v17.2.Core.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.PivotGrid.v17.2.Core.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.PivotGrid.v17.2.Core.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.PivotGrid.v17.2.Core.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Xpo.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Xpo.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Xpo.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Xpo.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.XtraCharts.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.XtraCharts.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.XtraCharts.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.XtraCharts.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.XtraGauges.v17.2.Core.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.XtraGauges.v17.2.Core.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.XtraGauges.v17.2.Core.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.XtraGauges.v17.2.Core.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Web.ASPxHtmlEditor.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Web.ASPxHtmlEditor.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Web.ASPxHtmlEditor.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Web.ASPxHtmlEditor.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Web.ASPxRichEdit.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Web.ASPxRichEdit.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Web.ASPxRichEdit.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Web.ASPxRichEdit.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Web.ASPxScheduler.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Web.ASPxScheduler.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Web.ASPxScheduler.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Web.ASPxScheduler.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Web.ASPxSpellChecker.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Web.ASPxSpellChecker.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Web.ASPxSpellChecker.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Web.ASPxSpellChecker.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Web.ASPxSpreadsheet.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Web.ASPxSpreadsheet.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Web.ASPxSpreadsheet.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Web.ASPxSpreadsheet.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Web.ASPxTreeList.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Web.ASPxTreeList.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Web.ASPxTreeList.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Web.ASPxTreeList.v17.2.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\obj\Debug\McbitssDevReports.csprojResolveAssemblyReference.cache
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\obj\Debug\McbitssDevReports.dll.licenses
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\obj\Debug\McbitssDevReports.dll
+c:\users\usr_vkp.mcbitssrds.000\documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\obj\Debug\McbitssDevReports.pdb
+C:\Users\USR_VKP.MCBITSSRDS.000\Documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\obj\Debug\McbitssDevReports.Reports.XtraReport1.resources
+C:\Users\USR_VKP.MCBITSSRDS.000\Documents\visual studio 2017\Projects\McbitssDevReports\McbitssDevReports\obj\Debug\McbitssDevReports.csproj.GenerateResource.Cache
+C:\Users\USR_VKP.MCBITSSRDS.000\Documents\Visual Studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraBars.v17.2.dll
+C:\Users\USR_VKP.MCBITSSRDS.000\Documents\Visual Studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraEditors.v17.2.dll
+C:\Users\USR_VKP.MCBITSSRDS.000\Documents\Visual Studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraBars.v17.2.xml
+C:\Users\USR_VKP.MCBITSSRDS.000\Documents\Visual Studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraEditors.v17.2.xml
+C:\Users\USR_VKP.MCBITSSRDS.000\Documents\Visual Studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\USR_VKP.MCBITSSRDS.000\Documents\Visual Studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\USR_VKP.MCBITSSRDS.000\Documents\Visual Studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\USR_VKP.MCBITSSRDS.000\Documents\Visual Studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\USR_VKP.MCBITSSRDS.000\Documents\Visual Studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\USR_VKP.MCBITSSRDS.000\Documents\Visual Studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\USR_VKP.MCBITSSRDS.000\Documents\Visual Studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\USR_VKP.MCBITSSRDS.000\Documents\Visual Studio 2017\Projects\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\USR_VKP.MCBITSSRDS.000\Documents\Visual Studio 2017\Projects\McbitssDevReports\McbitssDevReports\obj\Debug\McbitssDevReports.Reports.Sample.resources
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\McbitssDevReports.dll.config
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\McbitssDevReports.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\McbitssDevReports.pdb
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\David.Mongodb.Client.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DCouple.Mongo.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Charts.v17.2.Core.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.CodeParser.v17.2.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Data.v17.2.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.DataAccess.v17.2.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Office.v17.2.Core.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Pdf.v17.2.Core.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.PivotGrid.v17.2.Core.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Printing.v17.2.Core.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.RichEdit.v17.2.Core.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.RichEdit.v17.2.Export.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Sparkline.v17.2.Core.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Utils.v17.2.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxThemes.v17.2.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.Mvc5.v17.2.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.Resources.v17.2.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.v17.2.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Xpo.v17.2.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraBars.v17.2.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraCharts.v17.2.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraEditors.v17.2.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraGauges.v17.2.Core.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraReports.v17.2.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraReports.v17.2.Web.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DnsClient.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\EntityFramework.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\EntityFramework.SqlServer.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\Microsoft.Web.Infrastructure.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\MongoDB.Bson.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\MongoDB.Driver.Core.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\MongoDB.Driver.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\Newtonsoft.Json.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Buffers.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Net.Http.Formatting.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Web.Helpers.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Web.Http.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Web.Http.WebHost.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Web.Mvc.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Web.Razor.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Web.WebPages.Deployment.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Web.WebPages.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Web.WebPages.Razor.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\WebMatrix.Data.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Images.v17.2.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraCharts.v17.2.Web.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxHtmlEditor.v17.2.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxPivotGrid.v17.2.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxRichEdit.v17.2.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxScheduler.v17.2.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraScheduler.v17.2.Core.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxSpellChecker.v17.2.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxSpreadsheet.v17.2.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxTreeList.v17.2.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.SpellChecker.v17.2.Core.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Spreadsheet.v17.2.Core.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraBars.v17.2.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraEditors.v17.2.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DnsClient.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\EntityFramework.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\EntityFramework.SqlServer.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\MongoDB.Bson.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\MongoDB.Driver.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\MongoDB.Driver.Core.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\Newtonsoft.Json.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Net.Http.Formatting.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Web.Helpers.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Web.Http.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Web.Http.WebHost.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Web.Mvc.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Web.Razor.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Web.WebPages.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Web.WebPages.Deployment.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Web.WebPages.Razor.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Utils.v17.2.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Data.v17.2.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.RichEdit.v17.2.Core.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Printing.v17.2.Core.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.v17.2.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraReports.v17.2.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraReports.v17.2.Web.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Pdf.v17.2.Core.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.DataAccess.v17.2.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Office.v17.2.Core.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.PivotGrid.v17.2.Core.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Sparkline.v17.2.Core.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Xpo.v17.2.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraCharts.v17.2.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraGauges.v17.2.Core.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\WebMatrix.Data.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraCharts.v17.2.Web.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxHtmlEditor.v17.2.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxPivotGrid.v17.2.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxRichEdit.v17.2.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxScheduler.v17.2.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraScheduler.v17.2.Core.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxSpellChecker.v17.2.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxSpreadsheet.v17.2.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxTreeList.v17.2.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.SpellChecker.v17.2.Core.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Spreadsheet.v17.2.Core.xml
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.XtraBars.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.XtraBars.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.XtraBars.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.XtraBars.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.XtraEditors.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.XtraEditors.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.XtraEditors.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.XtraEditors.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Utils.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Utils.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Utils.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Utils.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Data.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Data.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Data.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Data.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Printing.v17.2.Core.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Printing.v17.2.Core.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Printing.v17.2.Core.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Printing.v17.2.Core.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Web.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Web.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Web.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Web.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.XtraReports.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.XtraReports.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.XtraReports.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.XtraReports.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.XtraReports.v17.2.Web.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.XtraReports.v17.2.Web.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.XtraReports.v17.2.Web.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.XtraReports.v17.2.Web.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Web.Resources.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Web.Resources.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Web.Resources.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Web.Resources.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.DataAccess.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.DataAccess.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.DataAccess.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.DataAccess.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Office.v17.2.Core.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Office.v17.2.Core.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Office.v17.2.Core.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Office.v17.2.Core.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.PivotGrid.v17.2.Core.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.PivotGrid.v17.2.Core.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.PivotGrid.v17.2.Core.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.PivotGrid.v17.2.Core.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Xpo.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Xpo.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Xpo.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Xpo.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.XtraCharts.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.XtraCharts.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.XtraCharts.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.XtraCharts.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.XtraGauges.v17.2.Core.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.XtraGauges.v17.2.Core.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.XtraGauges.v17.2.Core.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.XtraGauges.v17.2.Core.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Web.ASPxHtmlEditor.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Web.ASPxHtmlEditor.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Web.ASPxHtmlEditor.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Web.ASPxHtmlEditor.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Web.ASPxRichEdit.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Web.ASPxRichEdit.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Web.ASPxRichEdit.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Web.ASPxRichEdit.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Web.ASPxScheduler.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Web.ASPxScheduler.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Web.ASPxScheduler.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Web.ASPxScheduler.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Web.ASPxSpellChecker.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Web.ASPxSpellChecker.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Web.ASPxSpellChecker.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Web.ASPxSpellChecker.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Web.ASPxSpreadsheet.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Web.ASPxSpreadsheet.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Web.ASPxSpreadsheet.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Web.ASPxSpreadsheet.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Web.ASPxTreeList.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Web.ASPxTreeList.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Web.ASPxTreeList.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Web.ASPxTreeList.v17.2.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\obj\Debug\McbitssDevReports.Reports.LeaveplanReport.resources
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\obj\Debug\McbitssDevReports.csproj.GenerateResource.Cache
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\obj\Debug\McbitssDevReports.dll.licenses
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\obj\Debug\McbitssDevReports.dll
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\obj\Debug\McbitssDevReports.pdb
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\obj\Debug\McbitssDevReports.csprojResolveAssemblyReference.cache
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\obj\Debug\McbitssDevReports.Reports.SwissReports.SwissEmpPayslip.resources
+E:\Rakesh_workspace\mongoDBApp\McbitssDevReports\McbitssDevReports\obj\Debug\McbitssDevReports.Reports.SwissReports.SwissHrPayslip.resources
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\McbitssDevReports.dll.config
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\McbitssDevReports.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\McbitssDevReports.pdb
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\David.Mongodb.Client.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DCouple.Mongo.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Charts.v17.2.Core.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.CodeParser.v17.2.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Data.v17.2.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.DataAccess.v17.2.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Office.v17.2.Core.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Pdf.v17.2.Core.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.PivotGrid.v17.2.Core.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Printing.v17.2.Core.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.RichEdit.v17.2.Core.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.RichEdit.v17.2.Export.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Sparkline.v17.2.Core.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Utils.v17.2.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxThemes.v17.2.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.Mvc5.v17.2.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.Resources.v17.2.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.v17.2.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Xpo.v17.2.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraBars.v17.2.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraCharts.v17.2.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraEditors.v17.2.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraGauges.v17.2.Core.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraReports.v17.2.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraReports.v17.2.Web.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DnsClient.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\EntityFramework.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\EntityFramework.SqlServer.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\Microsoft.Web.Infrastructure.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\MongoDB.Bson.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\MongoDB.Driver.Core.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\MongoDB.Driver.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\Newtonsoft.Json.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Buffers.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Net.Http.Formatting.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Web.Helpers.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Web.Http.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Web.Http.WebHost.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Web.Mvc.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Web.Razor.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Web.WebPages.Deployment.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Web.WebPages.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Web.WebPages.Razor.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\WebMatrix.Data.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Images.v17.2.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraCharts.v17.2.Web.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxHtmlEditor.v17.2.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxPivotGrid.v17.2.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxRichEdit.v17.2.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxScheduler.v17.2.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraScheduler.v17.2.Core.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxSpellChecker.v17.2.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxSpreadsheet.v17.2.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxTreeList.v17.2.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.SpellChecker.v17.2.Core.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Spreadsheet.v17.2.Core.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraBars.v17.2.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraEditors.v17.2.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DnsClient.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\EntityFramework.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\EntityFramework.SqlServer.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\MongoDB.Bson.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\MongoDB.Driver.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\MongoDB.Driver.Core.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\Newtonsoft.Json.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Net.Http.Formatting.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Web.Helpers.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Web.Http.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Web.Http.WebHost.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Web.Mvc.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Web.Razor.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Web.WebPages.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Web.WebPages.Deployment.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\System.Web.WebPages.Razor.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Utils.v17.2.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Data.v17.2.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.RichEdit.v17.2.Core.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Printing.v17.2.Core.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.v17.2.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraReports.v17.2.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraReports.v17.2.Web.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Pdf.v17.2.Core.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.DataAccess.v17.2.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Office.v17.2.Core.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.PivotGrid.v17.2.Core.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Sparkline.v17.2.Core.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Xpo.v17.2.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraCharts.v17.2.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraGauges.v17.2.Core.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\WebMatrix.Data.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraCharts.v17.2.Web.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxHtmlEditor.v17.2.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxPivotGrid.v17.2.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxRichEdit.v17.2.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxScheduler.v17.2.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraScheduler.v17.2.Core.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxSpellChecker.v17.2.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxSpreadsheet.v17.2.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxTreeList.v17.2.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.SpellChecker.v17.2.Core.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\DevExpress.Spreadsheet.v17.2.Core.xml
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.XtraBars.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.XtraBars.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.XtraBars.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.XtraBars.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.XtraEditors.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.XtraEditors.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.XtraEditors.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.XtraEditors.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Utils.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Utils.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Utils.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Utils.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Data.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Data.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Data.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Data.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Printing.v17.2.Core.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Printing.v17.2.Core.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Printing.v17.2.Core.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Printing.v17.2.Core.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Web.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Web.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Web.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Web.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.XtraReports.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.XtraReports.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.XtraReports.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.XtraReports.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.XtraReports.v17.2.Web.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.XtraReports.v17.2.Web.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.XtraReports.v17.2.Web.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.XtraReports.v17.2.Web.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Web.Resources.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Web.Resources.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Web.Resources.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Web.Resources.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.DataAccess.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.DataAccess.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.DataAccess.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.DataAccess.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Office.v17.2.Core.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Office.v17.2.Core.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Office.v17.2.Core.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Office.v17.2.Core.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.PivotGrid.v17.2.Core.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.PivotGrid.v17.2.Core.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.PivotGrid.v17.2.Core.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.PivotGrid.v17.2.Core.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Xpo.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Xpo.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Xpo.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Xpo.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.XtraCharts.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.XtraCharts.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.XtraCharts.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.XtraCharts.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.XtraGauges.v17.2.Core.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.XtraGauges.v17.2.Core.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.XtraGauges.v17.2.Core.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.XtraGauges.v17.2.Core.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Web.ASPxHtmlEditor.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Web.ASPxHtmlEditor.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Web.ASPxHtmlEditor.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Web.ASPxHtmlEditor.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Web.ASPxRichEdit.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Web.ASPxRichEdit.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Web.ASPxRichEdit.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Web.ASPxRichEdit.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Web.ASPxScheduler.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Web.ASPxScheduler.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Web.ASPxScheduler.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Web.ASPxScheduler.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Web.ASPxSpellChecker.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Web.ASPxSpellChecker.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Web.ASPxSpellChecker.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Web.ASPxSpellChecker.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Web.ASPxSpreadsheet.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Web.ASPxSpreadsheet.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Web.ASPxSpreadsheet.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Web.ASPxSpreadsheet.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Web.ASPxTreeList.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Web.ASPxTreeList.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Web.ASPxTreeList.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Web.ASPxTreeList.v17.2.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\obj\Debug\McbitssDevReports.Reports.LeaveplanReport.resources
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\obj\Debug\McbitssDevReports.Reports.SwissReports.SwissEmpPayslip.resources
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\obj\Debug\McbitssDevReports.Reports.SwissReports.SwissHrPayslip.resources
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\obj\Debug\McbitssDevReports.csproj.GenerateResource.Cache
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\obj\Debug\McbitssDevReports.dll.licenses
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\obj\Debug\McbitssDevReports.dll
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\obj\Debug\McbitssDevReports.pdb
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\obj\Debug\McbitssDevReports.csprojResolveAssemblyReference.cache
+E:\Mcbitss Dev\Vijaya\New folder\mongoDBApp\McbitssDevReports\McbitssDevReports\obj\Debug\McbitssDevReports.Reports.IndiaReports.IndiaPayrollReport.resources
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\McbitssDevReports.dll.config
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\McbitssDevReports.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\McbitssDevReports.pdb
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\David.Mongodb.Client.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DCouple.Mongo.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.Charts.v17.2.Core.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.CodeParser.v17.2.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.Data.v17.2.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.DataAccess.v17.2.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.Office.v17.2.Core.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.Pdf.v17.2.Core.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.PivotGrid.v17.2.Core.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.Printing.v17.2.Core.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.RichEdit.v17.2.Core.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.RichEdit.v17.2.Export.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.Sparkline.v17.2.Core.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.Utils.v17.2.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxThemes.v17.2.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.Mvc5.v17.2.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.Resources.v17.2.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.v17.2.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.Xpo.v17.2.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraBars.v17.2.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraCharts.v17.2.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraEditors.v17.2.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraGauges.v17.2.Core.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraReports.v17.2.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraReports.v17.2.Web.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DnsClient.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\EntityFramework.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\EntityFramework.SqlServer.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\Microsoft.Web.Infrastructure.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\MongoDB.Bson.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\MongoDB.Driver.Core.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\MongoDB.Driver.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\Newtonsoft.Json.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\System.Buffers.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\System.Net.Http.Formatting.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\System.Web.Helpers.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\System.Web.Http.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\System.Web.Http.WebHost.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\System.Web.Mvc.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\System.Web.Razor.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\System.Web.WebPages.Deployment.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\System.Web.WebPages.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\System.Web.WebPages.Razor.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\WebMatrix.Data.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.Images.v17.2.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraCharts.v17.2.Web.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxHtmlEditor.v17.2.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxPivotGrid.v17.2.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxRichEdit.v17.2.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxScheduler.v17.2.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraScheduler.v17.2.Core.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxSpellChecker.v17.2.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxSpreadsheet.v17.2.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxTreeList.v17.2.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.SpellChecker.v17.2.Core.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.Spreadsheet.v17.2.Core.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraBars.v17.2.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraEditors.v17.2.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DnsClient.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\EntityFramework.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\EntityFramework.SqlServer.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\MongoDB.Bson.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\MongoDB.Driver.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\MongoDB.Driver.Core.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\Newtonsoft.Json.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\System.Net.Http.Formatting.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\System.Web.Helpers.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\System.Web.Http.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\System.Web.Http.WebHost.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\System.Web.Mvc.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\System.Web.Razor.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\System.Web.WebPages.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\System.Web.WebPages.Deployment.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\System.Web.WebPages.Razor.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.Utils.v17.2.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.Data.v17.2.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.RichEdit.v17.2.Core.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.Printing.v17.2.Core.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.v17.2.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraReports.v17.2.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraReports.v17.2.Web.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.Pdf.v17.2.Core.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.DataAccess.v17.2.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.Office.v17.2.Core.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.PivotGrid.v17.2.Core.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.Sparkline.v17.2.Core.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.Xpo.v17.2.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraCharts.v17.2.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraGauges.v17.2.Core.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\WebMatrix.Data.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraCharts.v17.2.Web.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxHtmlEditor.v17.2.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxPivotGrid.v17.2.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxRichEdit.v17.2.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxScheduler.v17.2.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.XtraScheduler.v17.2.Core.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxSpellChecker.v17.2.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxSpreadsheet.v17.2.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.Web.ASPxTreeList.v17.2.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.SpellChecker.v17.2.Core.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\DevExpress.Spreadsheet.v17.2.Core.xml
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.XtraBars.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.XtraBars.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.XtraBars.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.XtraBars.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.XtraEditors.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.XtraEditors.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.XtraEditors.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.XtraEditors.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Utils.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Utils.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Utils.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Utils.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Data.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Data.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Data.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Data.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Printing.v17.2.Core.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Printing.v17.2.Core.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Printing.v17.2.Core.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Printing.v17.2.Core.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Web.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Web.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Web.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Web.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.XtraReports.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.XtraReports.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.XtraReports.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.XtraReports.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.XtraReports.v17.2.Web.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.XtraReports.v17.2.Web.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.XtraReports.v17.2.Web.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.XtraReports.v17.2.Web.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Web.Resources.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Web.Resources.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Web.Resources.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Web.Resources.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.DataAccess.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.DataAccess.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.DataAccess.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.DataAccess.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Office.v17.2.Core.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Office.v17.2.Core.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Office.v17.2.Core.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Office.v17.2.Core.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.PivotGrid.v17.2.Core.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.PivotGrid.v17.2.Core.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.PivotGrid.v17.2.Core.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.PivotGrid.v17.2.Core.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Xpo.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Xpo.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Xpo.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Xpo.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.XtraCharts.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.XtraCharts.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.XtraCharts.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.XtraCharts.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.XtraGauges.v17.2.Core.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.XtraGauges.v17.2.Core.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.XtraGauges.v17.2.Core.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.XtraGauges.v17.2.Core.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Web.ASPxHtmlEditor.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Web.ASPxHtmlEditor.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Web.ASPxHtmlEditor.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Web.ASPxHtmlEditor.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Web.ASPxRichEdit.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Web.ASPxRichEdit.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Web.ASPxRichEdit.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Web.ASPxRichEdit.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Web.ASPxScheduler.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Web.ASPxScheduler.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Web.ASPxScheduler.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Web.ASPxScheduler.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Web.ASPxSpellChecker.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Web.ASPxSpellChecker.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Web.ASPxSpellChecker.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Web.ASPxSpellChecker.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Web.ASPxSpreadsheet.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Web.ASPxSpreadsheet.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Web.ASPxSpreadsheet.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Web.ASPxSpreadsheet.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Web.ASPxTreeList.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Web.ASPxTreeList.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Web.ASPxTreeList.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Web.ASPxTreeList.v17.2.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\de\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\es\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ja\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\bin\ru\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\obj\Debug\McbitssDevReports.csprojResolveAssemblyReference.cache
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\obj\Debug\McbitssDevReports.Reports.IndiaReports.IndiaPayrollReport.resources
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\obj\Debug\McbitssDevReports.Reports.LeaveplanReport.resources
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\obj\Debug\McbitssDevReports.Reports.SwissReports.SwissEmpPayslip.resources
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\obj\Debug\McbitssDevReports.Reports.SwissReports.SwissHrPayslip.resources
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\obj\Debug\McbitssDevReports.csproj.GenerateResource.Cache
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\obj\Debug\McbitssDevReports.dll.licenses
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\obj\Debug\McbitssDevReports.dll
+E:\Rakesh_workspace\Backup\McbitssDevReports\McbitssDevReports\obj\Debug\McbitssDevReports.pdb

@@ -1,0 +1,45 @@
+@{
+    var Country = ViewBag.Country;
+    var Role = ViewBag.Role;
+}
+@if(Country == "Swiss")
+{
+        if (Role == "Emp")
+        {
+                @Html.DevExpress().WebDocumentViewer(settings =>
+           {
+               settings.Name = "WebDocumentViewer";
+           }).Bind(new McbitssDevReports.Reports.SwissReports.SwissEmpPayslip()).GetHtml()
+    }
+    if (Role == "Hr")
+    {
+        @Html.DevExpress().WebDocumentViewer(settings =>
+           {
+               settings.Name = "WebDocumentViewer";
+           }).Bind(new McbitssDevReports.Reports.SwissReports.SwissHrPayslip()).GetHtml()
+             
+
+        }
+}
+@if(Country == "India")
+{
+        if (Role == "Hr")
+         {
+             @Html.DevExpress().WebDocumentViewer(settings =>
+                   {
+                       settings.Name = "WebDocumentViewer";
+                   }).Bind(new McbitssDevReports.Reports.IndiaReports.IndiaPayrollReport()).GetHtml()
+        }
+        if (Role == "Emp")
+        {
+
+            @Html.DevExpress().WebDocumentViewer(settings =>
+           {
+               settings.Name = "WebDocumentViewer";
+           }).Bind(new McbitssDevReports.Reports.IndiaReports.IndiaPayrollReport()).GetHtml()
+
+        }
+}
+
+
+
